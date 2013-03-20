@@ -1,2 +1,2 @@
-ates 1
+tes 1
 tes 2
